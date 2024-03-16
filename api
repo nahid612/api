@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 12345,
+      "cover": "https://via.placeholder.com/150",
+      "title": "The Enigma of Azure Skies",
+      "author_name": "Dr. Amelia Hawthorne",
+      "author_img": "https://via.placeholder.com/50",
+      "posted_date": "March 15, 2024",
+      "reading_time": 12,
+      "hashtag": "#MysteryFiction"
+    },
+    {
+      "id": 67890,
+      "cover": "https://via.placeholder.com/150",
+      "title": "Whispers in the Forgotten Woods",
+      "author_name": "Professor Samuel Evergreen",
+      "author_img": "https://via.placeholder.com/50",
+      "posted_date": "March 16, 2024",
+      "reading_time": 8,
+      "hashtag": "#FantasyAdventure"
+    },
+    {
+      "id": 54321,
+      "cover": "https://via.placeholder.com/150",
+      "title": "Chronicles of Nebula's Edge",
+      "author_name": "Captain Aria Nova",
+      "author_img": "https://via.placeholder.com/50",
+      "posted_date": "March 14, 2024",
+      "reading_time": 15,
+      "hashtag": "#SciFiSaga"
+    },
+    {
+      "id": 98765,
+      "cover": "https://via.placeholder.com/150",
+      "title": "Echoes from the Abyss",
+      "author_name": "Professor Victor Blackwood",
+      "author_img": "https://via.placeholder.com/50",
+      "posted_date": "March 13, 2024",
+      "reading_time": 10,
+      "hashtag": "#HorrorTales"
+    },
+    {
+      "id": 13579,
+      "cover": "https://via.placeholder.com/150",
+      "title": "Sapphire Dreams",
+      "author_name": "Lady Isabella Sterling",
+      "author_img": "https://via.placeholder.com/50",
+      "posted_date": "March 12, 2024",
+      "reading_time": 7,
+      "hashtag": "#RomanticEscapade"
+    }
+  ]
+}
